@@ -1,3 +1,4 @@
+// Example of syscolor package usage
 package main
 
 import (
