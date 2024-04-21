@@ -1,4 +1,4 @@
-# 🎨 syscolor
+# 🎨 syscolor [![Quality assurance](https://github.com/mishamyrt/go-syscolor/actions/workflows/quality-assurance.yaml/badge.svg)](https://github.com/mishamyrt/go-syscolor/actions/workflows/quality-assurance.yaml)
 
 A library that allows you to get system colors to build interfaces that look native.
 
