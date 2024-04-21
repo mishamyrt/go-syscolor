@@ -1,4 +1,4 @@
-# 🎨 syscolor [![Quality assurance](https://github.com/mishamyrt/go-syscolor/actions/workflows/quality-assurance.yaml/badge.svg)](https://github.com/mishamyrt/go-syscolor/actions/workflows/quality-assurance.yaml)
+# 🎨 syscolor [![Quality assurance](https://github.com/mishamyrt/go-syscolor/actions/workflows/quality-assurance.yaml/badge.svg)](https://github.com/mishamyrt/go-syscolor/actions/workflows/quality-assurance.yaml) [![GitHub release](https://img.shields.io/github/v/tag/mishamyrt/go-syscolor)](https://GitHub.com/mishamyrt/go-syscolor/releases/)
 
 A library that allows you to get system colors to build interfaces that look native.
 
