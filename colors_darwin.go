@@ -29,9 +29,3 @@ func (providerImpl) SelectedForeground() (color.RGBA, error) {
 		A: uint8(cColor.a),
 	}, nil
 }
-
-// func (providerImpl) ControlAccent() color.RGBA {
-// 	return RGBAFromInt(
-// 		int(C.getControlAccentColor()),
-// 	)
-// }
