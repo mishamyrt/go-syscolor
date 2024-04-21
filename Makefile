@@ -19,3 +19,7 @@ lint:
 .PHONY: changelog
 changelog:
 	git-chglog -o CHANGELOG.md
+
+.PHONY: test
+test:
+	go test ./...
